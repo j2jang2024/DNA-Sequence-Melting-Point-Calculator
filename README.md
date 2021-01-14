@@ -8,7 +8,7 @@ Since polynucleotide sequence analysis serves as the basis for many subdisciplin
 
 **How to Use**
 
-Download any programming application that supports python using your browser. Once that has been completed, reference the links below that will redirect you to my GitHub pages containing the projects. Download and open them in the application. In the input terminal, enter the DNA sequence without any hyphens or spaces (ex. ATCGATCG). Once that has been completed, the analyzed results to the components below will be returned.
+Download any programming application that supports python using your browser. Once that has been completed, downlead and open the file named 'human.py'. In the input terminal, enter the DNA sequence without any hyphens or spaces (ex. ATCGATCG). Once that has been completed, the analyzed results to the components below will be returned.
 
 **Features**
 
